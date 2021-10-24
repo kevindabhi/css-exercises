@@ -1,0 +1,21 @@
+.small_pink {
+background-color: rgb(252, 153, 186);
+font-family: Verdana, sans-serif;
+}
+
+
+#one{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.big_pink
+{
+    font-size: 24px;
+}
+
+#two{
+    background-color: rgb(26, 245, 26);
+    font-weight: bold;
+    font-size: 24px;
+}
